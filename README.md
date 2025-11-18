@@ -2,11 +2,7 @@
 
 ## Overview
 
-This repository hosts the **Tesla Traffic Light and Stop Sign Control – Vehicle (TLSSC-V) Dataset**, introduced in the TRB 2026 Annual Meeting paper:
-
-> **Li, Z., Zhang, P., Liang, S., Zhou, H., Ma, C., Li, Q., Yao, H., & Li, X.**  
-> _Benchmarking Tesla’s Traffic Light and Stop Sign Control: Field Dataset and Behavior Insights_  
-> TRBAM-26-05481, 2025.
+This repository hosts the **Tesla Traffic Light and Stop Sign Control – Vehicle (TLSSC-V) Dataset**.
 
 The dataset provides **high-resolution, synchronized vehicle trajectory and driver-perspective video data** of Tesla’s Traffic Light and Stop Sign Control (TLSSC) feature interacting with **Traffic Control Devices (TCDs)**, including both **traffic lights** and **stop signs**.
 
